@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["9T63BRP563.hehe.transorter"],
+        "components": [
+          {
+            "/": "/oauth/*"
+          }
+        ]
+      }
+    ]
+  }
+}
